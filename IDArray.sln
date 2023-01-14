@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDArray", "IDArray.csproj", "{0FF02B3A-C25E-41CC-B497-0390AFD77583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF02B3A-C25E-41CC-B497-0390AFD77583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF02B3A-C25E-41CC-B497-0390AFD77583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF02B3A-C25E-41CC-B497-0390AFD77583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF02B3A-C25E-41CC-B497-0390AFD77583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F77F244-E14C-4223-94A6-36AF87CB9AE1}
+	EndGlobalSection
+EndGlobal
